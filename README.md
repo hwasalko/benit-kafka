@@ -1,6 +1,4 @@
-## 사전 학습 자료
-
-카프카 기본 개념
+## 카프카 기본 개념
 - [카프카 소개(유튜브 영상)](https://www.youtube.com/watch?v=waw0XXNX-uQ)
 - [컨슈머 소개(유튜브 영상)](https://www.youtube.com/watch?v=rBVCvv9skT4)
 - [프로듀서 소개(유튜브 영상)](https://www.youtube.com/watch?v=aAu0FE3nvbk)
